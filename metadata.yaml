@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '31919'
     url: http://www.gutenberg.org/2009/agents/31919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26329#The-InquisitionA-Critical-and-Historical-Study-of-the-Coercive-Power-of-the-Church
 gutenberg_issued: '2008-08-16'
 gutenberg_type: Text
 identifiers:
